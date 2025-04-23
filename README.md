@@ -28,3 +28,5 @@ Tools: Git & GitHub, VS Code
 
 ### 🤓 LeetCode Statistics
 [![<JDKrugs>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<JDKrugs>&theme=<dark>)](https://github.com/JeremyTsaii/leetcode-stats)
+
+---
