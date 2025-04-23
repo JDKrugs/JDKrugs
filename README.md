@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Danielle Kruger 👋</h1>
 
-<!--
-**JDKrugs/JDKrugs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 First-Year Computer Science & Statistics Student <br/>
+🏫 North-West University | 📍 South Africa <br/>
+🐍 Currently learning Python | 💡 Passionate about solving problems with code
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+I'm a curious and driven university student working toward a degree in **Computer Science and Statistics** at **North-West University**. I'm passionate about tech, data, and turning ideas into reality through code.
+
+- 🌱 Currently learning: **Python**
+- 📊 Interested in: **Data Science**, **Machine Learning**, and **Web Development**
+- 🤝 Open to: Collaborations, internships, and mentorship opportunities
+- 🎯 Goal for this year: Build and share 3+ personal projects on GitHub
+
+---
+
+### 🛠️ Tech Stack
+
+```plaintext
+Languages: Python (learning), HTML/CSS (beginner)
+Tools: Git & GitHub, VS Code
