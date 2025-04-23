@@ -24,9 +24,4 @@ I'm a curious and driven university student working toward a degree in **Compute
 Languages: Python (learning), HTML/CSS (beginner)
 Tools: Git & GitHub, VS Code
 
----
 
-### 🤓 LeetCode Statistics
-[![<JDKrugs>'s LeetCode Stats](https://leetcode-stats.vercel.app/api?username<JDKrugs>&theme=<dark>)](https://github.com/JeremyTsaii/leetcode-stats)
-
----
