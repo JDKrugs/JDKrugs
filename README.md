@@ -21,5 +21,5 @@ I'm a curious and driven university student working toward a degree in **Compute
 ### 🛠️ Tech Stack
 
 ```plaintext
-Languages: Python (learning), HTML/CSS (beginner)
+Languages: Python (learning), HTML/CSS (beginner), SQL (basics)
 Tools: Git & GitHub, VS Code
