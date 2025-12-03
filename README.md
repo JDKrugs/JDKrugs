@@ -3,7 +3,7 @@
 <p align="center">
 🎓 First-Year Computer Science & Statistics Student <br/>
 🏫 North-West University | 📍 South Africa <br/>
-🐍 Currently learning Python | 💡 Passionate about solving problems with code
+🐍 Currently learning C++ | 💡 Passionate about solving problems with code
 </p>
 
 ---
@@ -21,5 +21,5 @@ I'm a curious and driven university student working toward a degree in **Compute
 ### 🛠️ Tech Stack
 
 ```plaintext
-Languages: Python (learning), HTML/CSS (beginner), SQL (basics)
+Languages: Python (beginner), HTML/CSS (beginner), SQL (basics), C++ (beginner)
 Tools: Git & GitHub, VS Code
