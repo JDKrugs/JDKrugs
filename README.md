@@ -11,7 +11,7 @@
 ### 💫 About Me
 I'm a curious and driven university student working toward a degree in **Computer Science and Statistics** at **North-West University**. I'm passionate about tech, data, and turning ideas into reality through code.
 
-- 🌱 Currently learning: **Python**
+- 🌱 Currently learning: **C++**
 - 📊 Interested in: **Data Science**, **Machine Learning**, and **Web Development**
 - 🤝 Open to: Collaborations, internships, and mentorship opportunities
 - 🎯 Goal for this year: Build and share 3+ personal projects on GitHub
