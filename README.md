@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Danielle Kruger 👋</h1>
 
 <p align="center">
-🎓 First-Year Computer Science & Statistics Student <br/>
+🎓 Second-Year Computer Science & Statistics Student <br/>
 🏫 North-West University | 📍 South Africa <br/>
 🐍 Currently learning C++ | 💡 Passionate about solving problems with code
 </p>
@@ -21,5 +21,5 @@ I'm a curious and driven university student working toward a degree in **Compute
 ### 🛠️ Tech Stack
 
 ```plaintext
-Languages: Python (beginner), HTML/CSS (beginner), SQL (basics), C++ (beginner)
+Languages: Python (beginner), HTML/CSS (beginner), SQL (basics), C++ (beginner), Java (basics
 Tools: Git & GitHub, VS Code
